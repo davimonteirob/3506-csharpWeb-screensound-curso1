@@ -1,6 +1,6 @@
 ﻿using ScreenSound.Menus;
 using ScreenSound.Modelos;
-
+// usando
 Artista ira = new Artista("Ira!", "Banda Ira!");
 Artista beatles = new("The Beatles", "Banda The Beatles");
 
